@@ -1,4 +1,4 @@
 - Landing page of an hypothetical application
-- Viait the site using https://ruhullaskar788.github.io/tindog/
+- Visit the site using https://ruhullaskar788.github.io/tindog/
 - Used HTML5, CSS3, JAVASCRIPT and BOOTSTRAP5
 - Responsive Website
